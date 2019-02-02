@@ -1,0 +1,18 @@
+{
+  "description": "Dice is a Discord bot",
+  "systems": {
+    "items": {
+      "discoin": {
+        "description": "Discoin is a network used to convert bot currencies",
+        "title": "Discoin"
+      },
+      "documentation": {
+        "title": "Documentation"
+      },
+      "shards": {
+        "title": "Bot Shards"
+      }
+    }
+  },
+  "title": "Dice"
+}

@@ -1,0 +1,33 @@
+{
+  "content": {
+    "frontMatterFormat": "json",
+    "systems": [
+      "shards",
+      "documentation",
+      "discoin"
+    ]
+  },
+  "defaultLocale": "en",
+  "description": "Status page for the Dice Discord bot services",
+  "locales": [
+    {
+      "code": "en",
+      "file": "en.json",
+      "iso": "en-US",
+      "name": "English"
+    }
+  ],
+  "name": "dice",
+  "notifications": {
+    "en": "https://dice.js.org/server"
+  },
+  "theme": {
+    "links": {
+      "en": {
+        "home": "https://dice.js.org",
+        "support": "https://dice.js.org/server"
+      }
+    }
+  },
+  "title": "Dice Status"
+}
