@@ -1,4 +1,7 @@
 {
+  "analytics": {
+    "ga": "UA-133415948-2"
+  },
   "content": {
     "frontMatterFormat": "json",
     "systems": [
