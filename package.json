@@ -8,6 +8,7 @@
     "eslint": "^5.12.1",
     "prettier": "^1.16.3"
   },
+  "license": "Apache-2.0",
   "name": "dice",
   "scripts": {
     "build": "statusfy build",
@@ -17,6 +18,5 @@
     "new-incident": "statusfy new-incident",
     "start": "statusfy start"
   },
-  "license": "Apache-2.0",
   "version": "1.0.0"
 }
