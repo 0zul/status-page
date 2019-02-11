@@ -11,7 +11,7 @@
     "prettier": "^1.16.3"
   },
   "license": "Apache-2.0",
-  "name": "dice",
+  "name": "dice-status-page",
   "scripts": {
     "build": "statusfy build",
     "dev": "statusfy dev",
