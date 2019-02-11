@@ -3,6 +3,8 @@ dependencies:
 devDependencies:
   '@dice-discord/eslint-config': 1.1.3
   eslint: 5.13.0
+  eslint-config-prettier: 4.0.0
+  eslint-plugin-prettier: 3.0.1
   prettier: 1.16.4
 packages:
   /@babel/code-frame/7.0.0:
@@ -3986,6 +3988,15 @@ packages:
       eslint: '>=3.14.1'
     resolution:
       integrity: sha512-ixJ4U3uTLXwJts4rmSVW/lMXjlGwCijhBJHk8iVqKKSifeI0qgFEfWl8L63isfc8Od7EiBALF6BX3jKLluf/jQ==
+  /eslint-config-prettier/4.0.0:
+    dependencies:
+      get-stdin: 6.0.0
+    dev: true
+    hasBin: true
+    peerDependencies:
+      eslint: '>=3.14.1'
+    resolution:
+      integrity: sha512-kWuiJxzV5NwOwZcpyozTzDT5KJhBw292bbYro9Is7BWnbNMg15Gmpluc1CTetiCatF8DRkNvgPAOaSyg+bYr3g==
   /eslint-plugin-prettier/3.0.1:
     dependencies:
       prettier-linter-helpers: 1.0.0
@@ -11061,5 +11072,7 @@ shrinkwrapVersion: 3
 specifiers:
   '@dice-discord/eslint-config': ^1.1.3
   eslint: ^5.12.1
+  eslint-config-prettier: ^4.0.0
+  eslint-plugin-prettier: ^3.0.1
   prettier: ^1.16.3
   statusfy: ^0.2.1
