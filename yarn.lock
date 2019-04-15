@@ -776,10 +776,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@dice-discord/eslint-config@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@dice-discord/eslint-config/-/eslint-config-1.2.1.tgz#2ef23d8a121dfe964cd7b2eaa4fa59386dfa439e"
-  integrity sha512-JVE1ZRBbGKGMiWi84ydyYuCRWE3IFL267fhxe3bTF5RJbuIGIT7MLOf4+7UEPmxBnAVujrUgEcLW3nIsiIdFWw==
+"@dice-discord/eslint-config@^1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@dice-discord/eslint-config/-/eslint-config-1.3.0.tgz#27375affd12d0665640151b60c5407bb05620a9c"
+  integrity sha512-lM+95iGzgEM/VTzN5lg+GLatwvPL0131T355wGctGnFbEj/LBD1f7mtTOwE10FdBEugCT9g6vgBkvZAyJrBRfw==
   dependencies:
     eslint-config-prettier "^4.1.0"
     eslint-plugin-prettier "^3.0.1"
